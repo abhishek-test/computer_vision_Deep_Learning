@@ -1,0 +1,7 @@
+path: "C:\\Abhishek Data\\VSCode_Workspace\\Python\\DL_Practice\\Yolov8_pose\\data"
+train: "images\\train"
+val: "images\\val"
+
+kpt_shape: [4,3]
+names:
+  0: Door

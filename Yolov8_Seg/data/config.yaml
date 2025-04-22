@@ -1,0 +1,6 @@
+path: "C:\\Abhishek Data\\VSCode_Workspace\\Python\\DL_Practice\\Yolov8_Seg\\data"
+train: "images\\train"
+val: "images\\val"
+
+nc: 1
+names: ['spade']
